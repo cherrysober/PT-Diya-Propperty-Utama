@@ -1,0 +1,487 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>PT DPU</title>
+    <meta name="robots" content="noindex, follow" />
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Place favicon.png in the root directory -->
+    <link rel="shortcut icon" href="img/PT. DPU.png" type="image/x-icon" />
+    <!-- Font Icons css -->
+    <link rel="stylesheet" href="css/font-icons.css">
+    <!-- plugins css -->
+    <link rel="stylesheet" href="css/plugins.css">
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Responsive css -->
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+
+<body>
+    <!--[if lte IE 9]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+
+    <!-- Add your site or application content here -->
+
+<!-- Body main wrapper start -->
+<div class="body-wrapper">
+
+    <!-- HEADER AREA START (header-5) -->
+    <header class="ltn__header-area ltn__header-5 ltn__header-logo-and-mobile-menu-in-mobile ltn__header-logo-and-mobile-menu ltn__header-transparent gradient-color-2">
+        <!-- ltn__header-top-area start -->
+        <div class="ltn__header-top-area top-area-color-white d-none">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-5">
+                        <div class="top-bar-right text-end">
+                            <div class="ltn__top-bar-menu">
+                                <ul>
+                                    <li>
+                                        <!-- ltn__language-menu -->
+                                        <div class="ltn__drop-menu ltn__currency-menu ltn__language-menu">
+                                            <ul>
+                                                <li><a href="#" class="dropdown-toggle"><span class="active-currency">English</span></a>
+                                                    <ul>
+                                                        <li><a href="#">Arabic</a></li>
+                                                        <li><a href="#">Bengali</a></li>
+                                                        <li><a href="#">Chinese</a></li>
+                                                        <li><a href="#">English</a></li>
+                                                        <li><a href="#">French</a></li>
+                                                        <li><a href="#">Hindi</a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <!-- ltn__social-media -->
+                                        <div class="ltn__social-media">
+                                            <ul>
+                                                <li><a href="#" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a href="#" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+                                                
+                                                <li><a href="#" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+                                                <li><a href="#" title="Dribbble"><i class="fab fa-dribbble"></i></a></li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ltn__header-top-area end -->
+        
+        <!-- ltn__header-middle-area start -->
+        <div class="ltn__header-middle-area ltn__header-sticky ltn__sticky-bg-black">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="site-logo-wrap" style="display: flex; align-items: center; gap: 10px;">
+                            <div class="site-logo">
+                                <a href="index.php"><img src="img/brand-logo/DPU.png" alt="Logo" style="width: 40px; height: auto;"></a>
+                            </div>
+                            <div class="site-title" style="color: white; font-size: 16px; font-weight: bold; white-space: nowrap;"><a href="index.php"> PT DIYA PROPERTY UTAMA </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col header-menu-column menu-color-white">
+                        <div class="header-menu d-none d-xl-block">
+                            <nav>
+                                <div class="ltn__main-menu">
+                                    <ul>
+                                        <li><a href="index.php">Beranda</a>
+                                        </li>
+                                        <li><a href="about.php">Tentang Kami</a>
+                                        </li>
+                                        <li><a href="service.php">Properti</a>
+                                        </li>
+                                        <li><a href="galery.php">Galeri</a>
+                                        </li>
+                                        <li><a href="contact.php">Kontak Kami</a></li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                    <div class="col ltn__header-options ltn__header-options-2 mb-sm-20">
+                        <!-- user-menu -->
+                        <div class="ltn__drop-menu user-menu">
+                            <ul>
+                                <li>
+                                    <a href="#"><i class="icon-user"></i></a>
+                                    <ul>
+                                        <li><a href="login.php">Login Admin</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <!-- Mobile Menu Button -->
+                        <div class="mobile-menu-toggle d-xl-none">
+                            <a href="#ltn__utilize-mobile-menu" class="ltn__utilize-toggle">
+                                <svg viewBox="0 0 800 600">
+                                    <path d="M300,220 C300,220 520,220 540,220 C740,220 640,540 520,420 C440,340 300,200 300,200" id="top"></path>
+                                    <path d="M300,320 L540,320" id="middle"></path>
+                                    <path d="M300,210 C300,210 520,210 540,210 C740,210 640,530 520,410 C440,330 300,190 300,190" id="bottom" transform="translate(480, 320) scale(1, -1) translate(-480, -318) "></path>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col--- ltn__header-options ltn__header-options-2 ">
+                        <!-- Mobile Menu Button -->
+                        <div class="mobile-menu-toggle d-xl-none">
+                            <a href="#ltn__utilize-mobile-menu" class="ltn__utilize-toggle">
+                                <svg viewBox="0 0 800 600">
+                                    <path d="M300,220 C300,220 520,220 540,220 C740,220 640,540 520,420 C440,340 300,200 300,200" id="top"></path>
+                                    <path d="M300,320 L540,320" id="middle"></path>
+                                    <path d="M300,210 C300,210 520,210 540,210 C740,210 640,530 520,410 C440,330 300,190 300,190" id="bottom" transform="translate(480, 320) scale(1, -1) translate(-480, -318) "></path>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ltn__header-middle-area end -->
+    </header>
+    <!-- HEADER AREA END -->
+
+    <!-- Utilize Mobile Menu Start -->
+    <div id="ltn__utilize-mobile-menu" class="ltn__utilize ltn__utilize-mobile-menu">
+        <div class="ltn__utilize-menu-inner ltn__scrollbar">
+            <div class="ltn__utilize-menu-head">
+                <div class="site-logo">
+                    <a href="index.html"><img src="img/brand-logo/DPU.png" alt="Logo" style="width: 60px; height: auto;"></a>
+                </div>
+                 <div class="site-title" style="color: rgb(253, 156, 46); font-size: 16px; font-weight: bold;"> <a href="index.html"> PT DIYA PROPERTY UTAMA </a>
+                </div>
+                <button class="ltn__utilize-close">×</button>
+            </div>
+            <div class="ltn__utilize-menu">
+                <ul>
+                    <li><a href="index.html">Beranda</a></li>
+                    </li>
+                    <li><a href="about.html">Tentang Kami</a>
+                    </li>
+                    <li><a href="service.html">Properti</a>
+                    </li>
+                    <li><a href="galery.html">Galeri</a>
+                    </li>
+                    <li><a href="contact.html">Kontak Kami</a></li>
+                </ul>
+            </div>
+            <div class="ltn__utilize-buttons ltn__utilize-buttons-2">
+                <ul>
+                    <li>
+                        <a href="account.html" title="My Account">
+                            <span class="utilize-btn-icon">
+                                <i class="far fa-user"></i>
+                            </span>
+                            My Account
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="ltn__social-media-2">
+                <ul>
+                    <li><a href="https://www.instagram.com/diyapropertyutama?igsh=MXMyemRoZWVhZ3hqYw==" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="https://www.tiktok.com/@pwsuiteapartemen?_t=ZS-8xFERvJYc77&_r=1" target="_blank" title="TikTok"><i class="fab fa-tiktok"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- Utilize Mobile Menu End -->
+
+    <div class="ltn__utilize-overlay"></div>
+
+    <!-- BREADCRUMB AREA START -->
+    <div class="ltn__breadcrumb-area text-left bg-overlay-black-40 bg-image "  data-bs-bg="img/header1.png">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="ltn__breadcrumb-inner">
+                        <h1 class="page-title" style="color: white;">Tentang Kami</h1>
+                        <div class="ltn__breadcrumb-list">
+                            <ul>
+                                <li style="color: white;"><a href="index.html" style="color: white;"><span class="ltn__secondary-color"><i class="fas fa-home"></i></span> Beranda</a></li>
+                                <li style="color: white;">Tentang Kami</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- BREADCRUMB AREA END -->
+
+    <!-- ABOUT US AREA START -->
+    <div class="ltn__about-us-area pt-120--- pb-90 mt--30">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 align-self-center">
+                    <div class="about-us-img-wrap about-img-left">
+                        <img src="img/pw1.png" alt="About Us Image">
+                        <div class="about-us-img-info about-us-img-info-2 about-us-img-info-3">
+                            
+                            <div class="ltn__video-img ltn__animation-pulse1">
+                                <img src="img/others/thumb.png" alt="video popup bg image">
+                                <a class="ltn__video-icon-2 ltn__video-icon-2-border---" href="https://www.youtube.com/embed/QvU-1pQdntU?si=iFNJ9ulkc7LgZgH4?autoplay=1&showinfo=0"  data-rel="lightcase:myCollection">
+                                    <i class="fa fa-play"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 align-self-center">
+                    <div class="about-us-info-wrap">
+                        <div class="section-title-area ltn__section-title-2--- mb-20">
+                            <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">Tentang Kami</h6>
+                            <h1 class="section-title">Bangun Masa Depan Anda
+                                 Bersama Kami di<span> PT. Diya Property Utama!</span></h1>
+                            <p>Di PT. Diya Properti Utama, kami tidak hanya membangun gedung—kami membangun masa depan. 
+                                Kami hadir dengan komitmen kuat untuk menciptakan ruang yang tidak hanya indah, tetapi 
+                                juga berfungsi dengan sempurna untuk kehidupan dan bisnis Anda. Dari hunian yang nyaman hingga
+                                ruang komersial yang inovatif, setiap proyek yang kami hadirkan dirancang dengan perhatian penuh terhadap 
+                                detail dan kualitas.</p>
+                        </div>
+                        <div class="btn-wrapper animated">
+                            <a href="service.html" class="theme-btn-1 btn btn-effect-1">Properti Kami</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- ABOUT US AREA END -->
+    
+      <section class="visi-misi">
+        <div class="container">
+            <h4 class="section-subtitle section-subtitle-2 ltn__secondary-color">Visi dan Misi</h4>
+          <div class="content">
+            <div class="description">
+              <h1 class="title">PT Diya Property Utama</h1>
+              <p>Sejak berdiri, Diya Property Utama telah berkomitmen untuk menghadirkan solusi properti terbaik bagi pelanggan. Dengan fokus pada kualitas, inovasi, dan kepuasan pelanggan, kami terus berkembang untuk memenuhi kebutuhan hunian dan investasi yang semakin beragam.</p>
+              <p>Kami percaya bahwa properti bukan sekadar bangunan, tetapi juga tempat untuk tumbuh, berinvestasi, dan menciptakan masa depan. Oleh karena itu, kami selalu berusaha menghadirkan layanan terbaik serta properti dengan nilai jangka panjang.</p>
+            </div>
+            <div class="vision">
+              <h1 class="title">Visi Kami</h1>
+              <p>Menjadi pengembang dan agen properti terkemuka yang menghadirkan hunian modern, nyaman, dan bernilai investasi tinggi, serta memberikan pengalaman transaksi properti yang aman dan terpercaya.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    
+      <section class="misi">
+        <div class="misi-container">
+          <h2 class="misi-title">Misi Kami</h2>
+          <div class="misi-grid">
+            <div class="misi-card">
+              <i class="fa-solid fa-house-chimney-user icon"></i>
+              <h4>Menyediakan pilihan properti terbaik</h4>
+              <p>sesuai dengan kebutuhan pelanggan, baik untuk hunian, bisnis, maupun investasi.</p>
+            </div>
+            <div class="misi-card">
+              <i class="fa-solid fa-seedling icon" ></i>
+              <h4>Membangun lingkungan yang nyaman dan berkelanjutan</h4>
+              <p>dengan desain modern serta fasilitas lengkap.</p>
+            </div>
+            <div class="misi-card">
+                <i class="fa-solid fa-briefcase icon"></i>
+              <h4>Memberikan layanan profesional dan terpercaya</h4>
+              <p>dengan proses yang transparan serta mudah diakses.</p>
+            </div>
+            <div class="misi-card">
+              <i class="fa-solid fa-user icon"></i>
+              <h4>Mewujudkan hubungan jangka panjang dengan pelanggan</h4>
+              <p>berdasarkan kepercayaan dan kepuasan.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+      
+    
+    </body>
+    </html>
+    
+          <!-- ABOUT US AREA START -->
+          <div class="ltn__about-us-area section-bg-1 pt-120--- pb-90 mt--30">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-6 align-self-center">
+                  <div style="display: flex; align-items: center;">
+                    <!-- Sosial Media Icons -->
+                    <div class="social-icons" style="display: flex; flex-direction: column; gap: 15px; margin-right: 150px;">
+                      <a href="https://instagram.com" target="_blank">
+                        <i class="fa-brands fa-instagram icon1"></i>
+                      </a>
+                      <a href="#">
+                        <i class="fa-solid fa-envelope icon1"></i>
+                      </a>
+                    </div>
+          
+                    <!-- Foto -->
+                    <div class="about-us-img-wrap about-img-left">
+                      <img src="img/Pakhelmuz.png" alt="About Us Image" style="border-radius: 10px;">
+                      <div class="about-us-img-info about-us-img-info-2 about-us-img-info-3"></div>
+                    </div>
+                  </div>
+                </div>
+          
+                <div class="col-lg-6 align-self-center">
+                  <div class="about-us-info-wrap">
+                    <div class="section-title-area ltn__section-title-2--- mb-20">
+                      <h1 class="section-title"><span>Ir. Suhelmuz</span></h1>
+                      <h5>Direktur Utama PT. Diya Property Utama</h5>
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vitae venenatis elit, nec euismod urna. Pellentesque a suscipit enim. Etiam iaculis, ex id lobortis faucibus, diam sapien ornare nisl, in auctor lectus magna ac urna. Aliquam tristique tortor sed elit hendrerit, ut tempor nisi tempus.
+                        <br>Cras semper auctor ipsum, a varius turpis accumsan euismod. Suspendisse in diam rhoncus, fermentum urna elementum, pretium neque. Ut sit amet nisi a felis fermentum gravida sit amet eget ante. Phasellus varius commodo elementum. 
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        
+    <!-- ABOUT US AREA END -->
+
+
+    <!-- CALL TO ACTION START (call-to-action-6) -->
+    <div class="ltn__call-to-action-area call-to-action-6 before-bg-bottom" data-bs-bg="img/1.jpg--">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="call-to-action-inner call-to-action-inner-6 ltn__secondary-bg position-relative text-center---">
+                        <div class="coll-to-info text-color-white">
+                            <h1>Di PT. Diya Property Utama,</h1>
+                            <p>setiap proyek lahir dari kolaborasi untuk menciptakan ruang berkualitas dan inovatif</p>
+                        </div>
+                        <div>
+                            <img src="img/PT. DPU.png" alt="" style="width: 60px;"">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- CALL TO ACTION END -->
+
+    <!-- FOOTER AREA START -->
+    <footer class="ltn__footer-area  ">
+        <div class="footer-top-area  section-bg-2 plr--5">
+            <div class="container-fluid">
+                <div class="row justify-content-between text-md-center text-xl-start">
+                    <div class="col-xl-4 col-md-12 col-sm-12 col-12">
+                        <div class="footer-widget footer-about-widget">
+                            <div class="footer-logo" style="display: flex; align-items:center;">
+                                <div class="site-logo">
+                                    <img src="img/brand-logo/DPU.png" alt="Logo" style="width: 28px; height: auto;">
+                                </div>
+                            </div>
+                            <p>PT Diya Property Utama <br>adalah perusahaan yang bergerak<br>di bidang pengembangan properti<br>dengan komitmen tinggi untuk<br> menghadirkan hunian yang nyaman.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-4 col-sm-12 col-12">
+                        <div class="display: flex; justify-content: center; gap: 40px; text-align: left;">
+                            <h4 class="footer-title">Perusahaan</h4>
+                            <div class="footer-menu">
+                                <ul>
+                                    <li><a href="about.html">Tentang Kami</a></li>
+                                    <li><a href="service.html">Properti</a></li>
+                                    <li><a href="galery.html">Galeri</a></li>
+                                    <li><a href="contact.html">Kontak Kami</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-4 col-sm-12 col-12">
+                        <div class="footer-widget footer-menu-widget clearfix">
+                            <h4 class="footer-title">Kontak Kami</h4>
+                            <div class="footer-address">
+                                <ul>
+                                    <li>
+                                        <div class="footer-address-icon">
+                                            <i class="icon-placeholder"></i>
+                                        </div>
+                                        <div class="footer-address-info">
+                                            <p>Jl. A. Wahab Syahranie No.Gang 9 </p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="footer-address-icon">
+                                            <i class="icon-call"></i>
+                                        </div>
+                                        <div class="footer-address-info">
+                                            <p><a href="tel:+0123-456789">0822-5227-1063</a></p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="footer-address-icon">
+                                            <i class="icon-mail"></i>
+                                        </div>
+                                        <div class="footer-address-info">
+                                            <p><a href="mailto:example@example.com">pandanwangisuitemkt@gmail.com</a></p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-4 col-sm-12 col-12">
+                        <div class="footer-widget footer-menu-widget clearfix">
+                            <h4 class="footer-title">Sosial Media</h4>
+                            <div class="ltn__social-media mt-20">
+                                <ul>
+                                    <li><a href="https://www.instagram.com/diyapropertyutama?igsh=MXMyemRoZWVhZ3hqYw==" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="https://www.tiktok.com/@pwsuiteapartemen?_t=ZS-8xFERvJYc77&_r=1" target="_blank" title="TikTok"><i class="fab fa-tiktok"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="ltn__copyright-area ltn__copyright-2 section-bg-7  plr--5">
+            <div class="container-fluid ltn__border-top-2">
+                <div class="row">
+                    <div class="col-md-6 col-12">
+                        <div class="ltn__copyright-design clearfix">
+                            <p>All Rights Reserved @ AriFaNa <span class="current-year"></span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- FOOTER AREA END -->
+</div>
+<!-- Body main wrapper end -->
+
+    <!-- preloader area start -->
+    <div class="preloader" id="preloader">
+        <div class="preloader-inner">
+            <div class="spinner">
+                <div class="dot1"></div>
+                <div class="dot2"></div>
+            </div>
+        </div>
+    </div>
+    <!-- preloader area end -->
+
+    <!-- All JS Plugins -->
+    <script src="js/plugins.js"></script>
+    <!-- Main JS -->
+    <script src="js/main.js"></script>
+  
+</body>
+</html>
+
